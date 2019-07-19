@@ -1,7 +1,7 @@
 # Keras pruning
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matthew-mcateer/Keras_pruning/blob/master/Model_pruning_exploration.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matthew-mcateer/Keras_pruning/blob/master/Model_pruning_exploration.ipynb/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matthew-mcateer/Keras_pruning/master?urlpath=Model_pruning_exploration.ipynb)
 
 A walkthrough of how to prune keras models using both weight-pruning and unit-pruning.
 
