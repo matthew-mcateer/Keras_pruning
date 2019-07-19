@@ -21,8 +21,8 @@ Given a layer of a neural network $ReLU(xW)$ are two well-known ways to prune it
 
 Naturally, as you increase the sparsity and delete more of the network, the task performance will progressively degrade. This repo serves as a demonstration of **both weight and unit pruning** and compare the performance across both the MNIST and FMNIST datasets.
 
-![MNIST performance](images/MNIST_sparsity_comparisons.png)
-![FMNIST performance](images/FMNIST_sparsity_comparisons.png)
+<img src="images/MNIST_sparsity_comparisons.png" alt="MNIST performance" width="500">
+<img src="images/FMNIST_sparsity_comparisons.png" alt="FMNIST performance" width="500">
 
 # Requirements
 - [Tensorflow](https://www.tensorflow.org/)
